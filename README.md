@@ -1,3 +1,9 @@
+# Problem statement
+
+**Đề bài**: Cho một xe chở hàng với X đơn vị diện tích. Tạo một mảng với các dictionary bên trong bao gồm 2 key: Số lượng hàng và đơn vị diện tích của mỗi hàng. In ra kết quả xem với số lượng hàng cho trước có đủ chỗ để xe chở hàng chở trong một lượt không?
+
+**Problem**: Given a truck with X units of area. Create an array with dictionaries inside including 2 keys: Number of rows and area unit of each row. Print out the results to see if the number of goods is enough for the cargo truck to carry in one turn?
+
 # Instructions
 
 ## Setup
